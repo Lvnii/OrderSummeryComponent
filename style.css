@@ -1,0 +1,162 @@
+.container
+{
+    position: absolute;
+    background-color: white;
+    top: 121px;
+    left: 725px;
+    height: 697px;
+    width: 450px;
+    border: 5px;
+    border-color: #382ae1;
+    border-radius: 20px;
+    box-shadow: 0px 40px 40px -20px rgba(13, 48, 189, 0.151826);
+}
+
+.img
+{
+    width: 100%;
+}
+
+.hero
+{
+    height: 220px;
+    width: 450px;
+    border: 5px;
+    border:#382ae1;
+    border-radius: 20px 20px 0px 0px;
+    margin-bottom: 20px;
+}
+
+.headline-slogan
+{
+    margin-top: 15px;
+}
+
+.headline
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 354px;
+    height: 34px;
+    margin-left: 40px;
+    color: #1d2e55;
+    size: 28px;
+    font-family: 'outfit';
+    line-height: 37px;
+    font-weight: 900;
+}
+
+.slogan
+{
+    display: flex;
+    height: 78px;
+    width: 354px;
+    align-items: center;
+    color: #717fa6;
+    margin-left: 50px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    font-family: 'outfit';
+}
+
+.annual-plan-container
+{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    width: 354px;
+    height: 98px;
+    margin-left: 45px;
+    border-radius: 11px;
+    background-color: #f7f9ff;
+}
+
+.music
+{
+    width: 48px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-left: 20px;
+}
+
+.plan-price
+{
+    margin-left: 15px;
+}
+
+.plan
+{
+    display: flex;
+    justify-content: flex-start;
+    font-family: 'outfit';
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 21px;
+    color: #4c4e52;
+}
+
+.plan-flex
+{
+    display: flex;
+    justify-content: flex-start;
+    width: 92px;
+    height: 40px;
+
+}
+
+.price
+{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: -2px;
+    width: 92px;
+    height: 21px;
+    font-family: 'outfit';
+    color: #8d84ed;   
+}
+
+.a
+{
+    margin-left: 90px;
+    width: 52px;
+    height: 19px;
+    font-weight: 700;
+    color: #8d84ed;
+    line-height: 18.5px;
+}
+
+
+.payment-button
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 390px;
+    font-family: 'outfit';
+    font-weight: 600;
+    height: 50px;
+    border-radius: 11px;
+    background-color: #8d84ed;
+    box-shadow: 0px 20px 20px rgba(56, 42, 225, 0.190291);
+    color: white;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+.cancel-order
+{
+    display: flex;
+    justify-content: center;
+    height: 20px;
+    margin-top: 30px;
+    font-size: 15px;
+    font-family: 'outfit';
+    line-height: 20px;
+    color: #717fa6;
+    font-weight: 900;
+}
